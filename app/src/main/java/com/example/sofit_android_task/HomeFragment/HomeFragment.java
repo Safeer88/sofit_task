@@ -103,4 +103,9 @@ public class HomeFragment extends Fragment  implements View.OnClickListener{
         mFragTransctn.hide(this);
         mFragTransctn.commit();
     }
+    @Override
+    public void onHiddenChanged(boolean hidden) {
+
+        iBadgeUpdateListener.setHeaderTitle("Home Fragment");
+    }
 }
