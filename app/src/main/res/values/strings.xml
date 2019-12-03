@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">SOFIT TASK</string>
+
+
+
+    <!--region BottomTab-->
+    <string name="tab_prdmenu">MENU</string>
+    <string name="tab_orders">ORDERS</string>
+    <string name="tab_offers">OFFERS</string>
+    <string name="tab_more">MORE</string>
+    <string name="tab_alerts">ALERTS</string>
+    <string name="tab_profile">PROFILE</string>
+
+
+    <!--region IntroActivity-->
+    <string name="act_intro_switchlang">ع</string>
+    <string name="act_intro_bt_eng">English</string>
+    <string name="act_intro_bt_arbc">العربية</string>
+    <string name="act_intro_bt_arbclogin">العربية</string>
+    <string name="act_intro_signin_heading">SIGN IN</string>
+    <string name="act_intro_signup_heading">SIGN UP</string>
+    <string name="act_intro_forgotpass_heading">FORGOT PASSWORD</string>
+    <string name="act_intro_verification_heading">VERIFICATION CODE</string>
+    <string name="act_intro_name">Enter Name</string>
+    <string name="act_intro_email">Enter Email ID (Optional)</string>
+    <string name="act_intro_phonenum">Enter Mobile Number</string>
+    <string name="act_intro_password">Enter Password</string>
+    <string name="act_intro_cnfpassword">Confirm Password</string>
+    <string name="act_intro_verfcode">Enter Verification Code</string>
+    <string name="act_intro_signin">SIGN IN</string>
+    <string name="act_intro_confirm">CONFIRM</string>
+    <string name="act_intro_register">REGISTER</string>
+    <string name="act_intro_sendemail">SEND</string>
+    <string name="act_intro_forgotpassword">Forgot Password?</string>
+    <string name="act_intro_ddntreceive">Didn\'t receive the code? </string>
+    <string name="act_intro_dnthave">Not a member? </string>
+    <string name="act_intro_already">Already a member? </string>
+    <string name="act_intro_register_here">Register Here!</string>
+    <string name="act_intro_signin_here">Sign in Here!</string>
+    <string name="act_intro_send_again">Send Again</string>
+    <string name="act_intro_already_added">ALREADY ADDED</string>
+    <string name="act_intro_change_passw_change_password">CHANGE PASSWORD</string>
+    <string name="act_intro_change_passw_enter_passw">Enter Password</string>
+    <string name="act_intro_change_passw_confirm_password">Confirm Password</string>
+    <string name="act_intro_change_passw_confirm">CONFIRM</string>
+    <string name="act_intro_Terms_Conditions">Terms and Conditions!</string>
+
+    <!--act_Intro_Activity-->
+    <string name="act_intro_toolbar_title">Intro App Title</string>
+    <string name="act_intro_frg_guest_btn__text">CONTINUE</string>
+    <string name="act_intro_frg_guest_txv_email">What Your Email</string>
+    <string name="act_intro_frg_guest_txv_name">Whats your Name</string>
+    <string name="act_intro_frg_guest_txv_password">Create a Strong Password</string>
+    <string name="act_intro_frg_signup_btn_text">Proceed to Code</string>
+
+    <string name="invalid_phone">Please enter a valid Mobile Number</string>
+    <string name="invalid_email">Please enter a valid Email Address</string>
+    <string name="invalid_name">Please enter your Name</string>
+    <string name="invalid_password">Please enter the Password</string>
+    <string name="invalid_new_password">Please enter the New Password</string>
+    <string name="invalid_cnf_password">Please fill in the Confirm Password</string>
+    <string name="invalid_password_short">Password cannot be less than 6 characters</string>
+    <string name="invalid_newpassword_short">New Password cannot be less than 6 characters</string>
+    <string name="invalid_password_mismatch">Password and Confirm Password do not match</string>
+    <string name="invalid_newpassword_mismatch">New Password and Confirm Password do not match</string>
+    <string name="empty_code">Please enter your Verification Code</string>
+    <string name="invalid_code">Please enter a valid Code</string>
+    <string name="invalid_promo_code">Promo code not valid</string>
+    <string name="no_branch_selected">Please select your preferred branch</string>
+    <string name="no_branch_available">No branch is serving at the moment</string>
+    <string name="no_order_type">Please choose an order type</string>
+    <string name="no_delivery_location">Please provide location for your order delivery</string>
+    <string name="no_cancellation_here">This order cannot be canceled now</string>
+    <string name="no_value_changed">Please edit any field before it can be saved</string>
+    <string name="all_ratings_mandatory">Please rate all aspects of our service</string>
+    <string name="no_complaint_selected">Please select a complaint/issue type</string>
+    <string name="no_complaint_text_entered">Please provide your feedback</string>
+    <string name="msg_noitems">No items found</string>
+    <string name="msg_select_items_todelted">Please select some items first</string>
+    <string name="msg_select_items_tocheckout">Please add some items first</string>
+    <string name="msg_item_added">Item added to cart</string>
+    <string name="msg_item_exhausted">Maximum limit reached!</string>
+    <string name="msg_perm_loc_denied">Location permission denied</string>
+    <string name="msg_fetching_loc">Fetching Current Location</string>
+    <!--endregion-->
+
+
+    <string name="sig_up_veficiation_pnumber">"Enter Your \n Phone Number"</string>
+    <string name="sig_up_pnumber_code">"Code"</string>
+    <string name="sig_up_confirmation_code">"This number will receive  \n a confirmation code"</string>
+
+
+
+
+
+
+
+
+</resources>

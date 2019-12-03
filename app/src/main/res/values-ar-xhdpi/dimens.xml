@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_font_padding">0dp</dimen><!--7dp-->
+    <dimen name="edttext_font_padding">0dp</dimen><!--13dp-->
+    <dimen name="textview_font_padding">2dp</dimen><!--3dp-->
+    <dimen name="textview_font_padding_bottombar">0dp</dimen>
+
+
+    <!-- side drawer sizes size -->
+
+
+<!--    <dimen name="spinner_text_margin">-5dp</dimen>-->
+
+    <!--<dimen name="button_font_padding">7dp</dimen>-->
+    <!--<dimen name="edttext_font_padding">8dp</dimen>-->
+
+    <dimen name="fontsize_xxxlarge">28sp</dimen>
+    <dimen name="fontsize_xxlarge">26sp</dimen>
+    <dimen name="fontsize_xlarge">24sp</dimen>
+    <dimen name="fontsize_large">22sp</dimen>
+    <dimen name="fontsize_medium">20sp</dimen>
+    <dimen name="fontsize_normal">18sp</dimen>
+    <dimen name="fontsize_small">16sp</dimen>
+    <dimen name="fontsize_mini">14sp</dimen>
+    <dimen name="fontsize_tiny">12sp</dimen>
+    <dimen name="fontsize_minute">10sp</dimen>
+    <dimen name="fontsize_micro">8sp</dimen>
+    <dimen name="fontsize_badge">10sp</dimen><!--SPECAIL CASE (using fontsize_tiny) -->
+
+</resources>

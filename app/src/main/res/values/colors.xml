@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#fafafa</color>
+    <color name="colorAccent">#fafafa</color>
+
+
+    <color name="textColorPrimary">#001A2B</color>
+
+    <!-- General Colors -->
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="brown">#ff4e3d29</color>
+    <color name="green">#16ca6b</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="blue">#017fd6</color>
+    <color name="navy">#135999</color>
+    <color name="pink">#fdedf4</color>
+    <color name="carribean">#13619c</color>
+    <color name="maroon">#3f0000</color>
+    <color name="red">#ca2306</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparant">#00000000</color>
+
+
+    <!-- App Colors -->
+    <color name="thm_light_blue">#2d85c0</color>
+    <color name="thm_dark_blue">#007aff</color>
+    <!--<color name="thm_text_title">#06456d</color>-->
+    <color name="thm_text_title">#2d85c0</color>
+    <color name="thm_text_light_gray_l1">#7e7e7e</color><!--gray level 1-->
+    <color name="thm_text_light_gray_l2">#9e9d9d</color><!--gray level 2-->
+    <color name="thm_btn_disabled">#bce6fd</color>
+    <color name="thm_btn_enabled">#1586c7</color>
+    <color name="thm_edttxt_stroke">#2d84c0</color>
+    <color name="thm_shadow_blue">#2a33B0FF</color>
+
+    <!-- App OLD Colors -->
+    <color name="thm_bg_loader">#1e000000</color>
+    <color name="thm_bg_dialogdark">#cb000000</color>
+    <color name="thm_bg_dialoglight">#cbffffff</color>
+    <color name="thm_card_dialog">#fcfcfc</color>
+    <color name="thm_card_light">#fafafa</color>
+    <color name="thm_card_dark">#f5f5f5</color>
+    <color name="thm_bg_profile">#2d85c0</color>
+    <color name="thm_profile_divider">#F8F8F8</color>
+    <color name="thm_profile_stoke">#66c4ff</color>
+
+
+</resources>

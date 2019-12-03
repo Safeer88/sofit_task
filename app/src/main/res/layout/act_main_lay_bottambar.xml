@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/btmtabbar_inner_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/transparent">
+
+        <LinearLayout
+            android:background="@color/white"
+            android:id="@+id/laybttab_ll_home"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center"
+            >
+
+            <CheckBox
+                android:id="@+id/laybttab_chb_home"
+                android:layout_width="@dimen/btmtabbar_icon_size"
+                android:layout_height="@dimen/btmtabbar_icon_size"
+                android:background="@drawable/slc_chb_btab_home"
+                android:button="@null"
+                android:checked="false"
+                android:clickable="false" />
+
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:background="@color/white"
+            android:id="@+id/laybttab_ll_cart_histroy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center"
+            >
+
+
+            <CheckBox
+                android:id="@+id/laybttab_chb_history"
+                android:layout_width="@dimen/btmtabbar_icon_size"
+                android:layout_height="@dimen/btmtabbar_icon_size"
+                android:background="@drawable/slc_chb_btab_home"
+                android:button="@null"
+                android:checked="false"
+                android:clickable="false" />
+
+
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:background="@color/white"
+            android:id="@+id/laybttab_ll_profile"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center"
+           >
+
+
+            <CheckBox
+                android:id="@+id/laybttab_chb_profile"
+                android:layout_width="@dimen/btmtabbar_icon_size"
+                android:layout_height="@dimen/btmtabbar_icon_size"
+                android:background="@drawable/slc_chb_btab_search"
+                android:button="@null"
+                android:checked="false"
+                android:clickable="false" />
+
+
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:background="@color/white"
+            android:id="@+id/laybttab_ll_settings"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center"
+            >
+
+
+            <CheckBox
+                android:id="@+id/laybttab_chb_settings"
+                android:layout_width="@dimen/btmtabbar_icon_size"
+                android:layout_height="@dimen/btmtabbar_icon_size"
+                android:background="@drawable/slc_chb_btab_search"
+                android:button="@null"
+                android:checked="false"
+                android:clickable="false" />
+
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

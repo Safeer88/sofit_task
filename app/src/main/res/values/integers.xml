@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_length_name">30</integer>
+    <integer name="max_length_email">50</integer>
+    <integer name="max_length_password">20</integer>
+    <integer name="max_length_phone">20</integer>
+    <integer name="max_length_address">300</integer>
+    <integer name="max_length_verfcode">10</integer>
+    <integer name="max_length_promocode">10</integer>
+    <integer name="max_length_comment">220</integer>
+
+    <integer name="view_pager_rotation">0</integer>
+    <integer name="Qatar_ID">8</integer>
+    <integer name="Patient_name">30</integer>
+    <integer name="addres">80</integer>
+
+
+
+</resources>

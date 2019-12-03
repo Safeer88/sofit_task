@@ -1,0 +1,42 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA"
+    tools:context=".BaseActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/act_main_tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/toolbar_height"
+            >
+
+            <include layout="@layout/act_main_lay_toolbar" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/act_main_content_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/act_main_tool_bar"
+            android:layout_above="@id/act_main_rl_bttabbar"/>
+
+
+        <RelativeLayout
+            android:id="@+id/act_main_rl_bttabbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/btmtabbar_height"
+            android:layout_alignParentBottom="true">
+
+            <include layout="@layout/act_main_lay_bottambar" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

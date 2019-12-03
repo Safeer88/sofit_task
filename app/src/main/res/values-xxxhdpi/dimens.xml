@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="fontsize_xxxlarge">28sp</dimen>
+    <dimen name="fontsize_xxlarge">26sp</dimen>
+    <dimen name="fontsize_xlarge">24sp</dimen>
+    <dimen name="fontsize_large">22sp</dimen>
+    <dimen name="fontsize_medium">20sp</dimen>
+    <dimen name="fontsize_normal">18sp</dimen>
+    <dimen name="fontsize_small">16sp</dimen>
+    <dimen name="fontsize_mini">14sp</dimen>
+    <dimen name="fontsize_tiny">12sp</dimen>
+    <dimen name="fontsize_minute">10sp</dimen>
+    <dimen name="fontsize_micro">8sp</dimen>
+    <dimen name="fontsize_badge">12sp</dimen><!--SPECAIL CASE (using fontsize_tiny) -->
+
+</resources>

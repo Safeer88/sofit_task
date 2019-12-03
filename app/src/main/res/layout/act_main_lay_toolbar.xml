@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:id="@+id/act_main_rl_tolbar_conatiner"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toolbar_height"
+ >
+
+    <RelativeLayout
+        android:id="@+id/act_main_conatiner_one"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+     >
+
+    <LinearLayout
+        android:id="@+id/laytlbr_ll_back_icon"
+        android:layout_width="45dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:visibility="visible"
+        android:layout_alignParentLeft="true">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:background="@drawable/app_back_icon" />
+
+
+    </LinearLayout>
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+    <TextView
+        android:id="@+id/laytlbr_txv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:includeFontPadding="false"
+        android:paddingTop="@dimen/textview_font_padding"
+        android:paddingBottom="@dimen/textview_font_padding"
+        android:text="AppTitle"
+        android:textSize="@dimen/fontsize_medium"
+        android:visibility="visible"/>
+
+
+
+
+
+</RelativeLayout>
